@@ -1,0 +1,53 @@
+@media screen and (max-width: 980px) {
+    
+  .slider1 h1{
+    font-size: 40px;
+    color: white;
+    font-weight:bold ;
+
+}
+.bodkfg{
+   font-size: 80px;
+}
+}
+@media screen and (max-width:500px) {
+  .clickbuton{
+    display: none;
+ }
+ .aboutrolusfg{
+   display: block;
+ }
+
+}
+
+@media screen and (min-width:1000px) {
+  .mainchak{
+     display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .midtextbox{
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+
+  }
+  .contact-section{
+     height: 500px;
+  }
+  .autotag{
+     display: flex;
+     justify-content: space-around;
+     align-items: center;
+
+  }
+ 
+}
+
+@media screen and (min-width:1000px) {
+
+  .Experttexm{
+    margin-top: 200px;
+   
+ }
+}
